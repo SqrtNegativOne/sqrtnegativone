@@ -1,6 +1,6 @@
-Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.
+# 👋 Hi, I am the Square Root of Negativ One.
 
-- 🔭 I’m currently working on: my skillz
+- 🔭 I’m currently working on: my skillz.
 - 🌱 I’m currently learning: DSA in C++, AI/ML in Python.
 - 😄 Pronouns: Any.
 - 🗺️ My local address: 192.168.1.1
