@@ -5,7 +5,7 @@
 - 😄 Pronouns: Any.
 - 🗺️ My local address: 192.168.1.1
 - 💬 Ask me about: my favourite video games please please please
-- 🤔 I’m looking for help with: Learning ML.
+- 🤔 I’m looking for help with: Learning C++, DSA and ML.
 - ⚡ Fun fact: I am genuinely afraid of AI. Please send help
 - 👯 I’m looking to collaborate on: Any ML project, SWE project, or DSA contest.
 - 📫 How to reach me: climb the highest mountain in the lands and call out my name 3 times.
