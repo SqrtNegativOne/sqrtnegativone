@@ -12,6 +12,12 @@ To know more about me, please visit my highly unimpressive <a href="https://sqrt
   
 ![](https://komarev.com/ghpvc/?username=SqrtNegativOne&color=brightgreen)
 
-<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sqrtnegativone&show_icons=true&locale=en&layout=compact" alt="sqrtnegativone" /></p>
 
-https://github.com/ayshthkr/ayshthkr/blob/main/.github/workflows/snake.yml-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sqrtnegativone&show_icons=true&locale=en" alt="sqrtnegativone" /></p>
+
+ https://rahuldkjain.github.io/gh-profile-readme-generator/ 
+
+https://github.com/ayshthkr/ayshthkr/blob/main/.github/workflows/snake.yml
+-->
