@@ -1,6 +1,6 @@
 # 👋 Hi, I am the Square Root of Negativ One.
-- 🔭 I’m currently working on: my skillz.
-- 🌱 I’m currently learning: DSA in C++, AI/ML in Python, Web development with Svelte, Tailwind, and Typescript.
+- 🔭 I’m currently working on: my CGPA.
+- 🌱 I’m currently learning: DSA in C++, AI/ML in Python, and development.
 - 😄 Pronouns: Any.
 - 🗺️ My local address: 192.168.1.1
 - 💬 Ask me about: my favourite video games please please please
