@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on: Any ML project, SWE project, or DSA contest.
 - 📫 How to reach me: climb the highest mountain in the lands and call out my name 3 times.
 
-To know more about me, please visit my highly unimpressive <a href="https://sqrt.fyi/">website</a>.
+Know more about me at [sqrt.fyi](https://sqrt.fyi/)
   
 ![](https://komarev.com/ghpvc/?username=SqrtNegativOne&color=brightgreen)
 
